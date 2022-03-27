@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Sun, 27 Mar 2022 22:26:33 at http://preview.themeforest.net/item/loveus-charity-nonprofit-html-template/full_screen_preview/25248789?_ga=2.211657170.67681614.1648399012-571766789.1648399012
+(winhttrack http://preview.themeforest.net/item/loveus-charity-nonprofit-html-template/full_screen_preview/25248789?_ga=2.211657170.67681614.1648399012-571766789.1648399012 -O "/Users/akshatnahata/websites/ecell2" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:26:36	Warning: 	Link preview.themeforest.net/item/loveus-charity-nonprofit-html-template/full_screen_preview/25248789?_ga=2.211657170.67681614.1648399012-571766789.1648399012 not scanned (follow robots meta tag)
+22:26:36	Error: 	"Gone" (410) at link preview.themeforest.net/item/loveus-charity-nonprofit-html-template/full_screen_preview/&quot;https://themeforest.net/item/loveus-nonprofit-charity-wordpress-t..." (from preview.themeforest.net/item/loveus-charity-nonprofit-html-template/full_screen_preview/25248789?_ga=2.211657170.67681614.1648399012-571766789.1648399012)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 3 links scanned, 1 files written (36446 bytes overall) [14701 bytes received at 4900 bytes/sec], 36493 bytes transferred using HTTP compression in 2 files, ratio 33%, 1.5 requests per connection
+(1 errors, 1 warnings, 0 messages)
